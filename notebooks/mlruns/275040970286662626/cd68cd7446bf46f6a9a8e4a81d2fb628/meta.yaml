@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/cd68cd7446bf46f6a9a8e4a81d2fb628/artifacts
+end_time: 1707172239352
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: cd68cd7446bf46f6a9a8e4a81d2fb628
+run_name: Gradient Boosting Classifier
+run_uuid: cd68cd7446bf46f6a9a8e4a81d2fb628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707172236986
+status: 3
+tags: []
+user_id: pedro

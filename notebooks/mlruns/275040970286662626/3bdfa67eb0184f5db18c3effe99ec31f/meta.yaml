@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/3bdfa67eb0184f5db18c3effe99ec31f/artifacts
+end_time: 1707173925829
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: 3bdfa67eb0184f5db18c3effe99ec31f
+run_name: Session Initialized f15f
+run_uuid: 3bdfa67eb0184f5db18c3effe99ec31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707173536500
+status: 3
+tags: []
+user_id: pedro

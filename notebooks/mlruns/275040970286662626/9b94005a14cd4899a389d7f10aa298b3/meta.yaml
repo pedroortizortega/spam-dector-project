@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/9b94005a14cd4899a389d7f10aa298b3/artifacts
+end_time: 1707172222168
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: 9b94005a14cd4899a389d7f10aa298b3
+run_name: Naive Bayes
+run_uuid: 9b94005a14cd4899a389d7f10aa298b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707172220267
+status: 3
+tags: []
+user_id: pedro

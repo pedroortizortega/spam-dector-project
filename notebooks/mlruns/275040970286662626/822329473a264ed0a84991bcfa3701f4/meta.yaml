@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/822329473a264ed0a84991bcfa3701f4/artifacts
+end_time: 1707174149860
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: 822329473a264ed0a84991bcfa3701f4
+run_name: Ridge Classifier
+run_uuid: 822329473a264ed0a84991bcfa3701f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707174147601
+status: 3
+tags: []
+user_id: pedro

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/e352e013655041658accf415fe25080b/artifacts
+end_time: 1707172236744
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: e352e013655041658accf415fe25080b
+run_name: Decision Tree Classifier
+run_uuid: e352e013655041658accf415fe25080b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707172234704
+status: 3
+tags: []
+user_id: pedro

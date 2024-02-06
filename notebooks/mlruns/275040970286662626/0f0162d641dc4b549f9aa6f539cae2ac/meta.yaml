@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/0f0162d641dc4b549f9aa6f539cae2ac/artifacts
+end_time: 1707172246298
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: 0f0162d641dc4b549f9aa6f539cae2ac
+run_name: Quadratic Discriminant Analysis
+run_uuid: 0f0162d641dc4b549f9aa6f539cae2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707172244467
+status: 3
+tags: []
+user_id: pedro

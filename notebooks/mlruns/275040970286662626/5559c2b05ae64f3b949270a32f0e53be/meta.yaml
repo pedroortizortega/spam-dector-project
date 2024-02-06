@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/5559c2b05ae64f3b949270a32f0e53be/artifacts
+end_time: 1707177574246
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: 5559c2b05ae64f3b949270a32f0e53be
+run_name: Logistic Regression
+run_uuid: 5559c2b05ae64f3b949270a32f0e53be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707177572332
+status: 3
+tags: []
+user_id: pedro

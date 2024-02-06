@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/f9089f3505504aacb4f54384f1e8a028/artifacts
+end_time: 1707174159267
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: f9089f3505504aacb4f54384f1e8a028
+run_name: Linear Discriminant Analysis
+run_uuid: f9089f3505504aacb4f54384f1e8a028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707174157333
+status: 3
+tags: []
+user_id: pedro

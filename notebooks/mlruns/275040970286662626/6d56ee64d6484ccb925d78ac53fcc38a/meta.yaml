@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects/personal_projects/spam-dector-project/notebooks/mlruns/275040970286662626/6d56ee64d6484ccb925d78ac53fcc38a/artifacts
+end_time: 1707172219754
+entry_point_name: ''
+experiment_id: '275040970286662626'
+lifecycle_stage: active
+run_id: 6d56ee64d6484ccb925d78ac53fcc38a
+run_name: K Neighbors Classifier
+run_uuid: 6d56ee64d6484ccb925d78ac53fcc38a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707172217139
+status: 3
+tags: []
+user_id: pedro
