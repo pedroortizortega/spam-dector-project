@@ -4,6 +4,7 @@ __pycache__/
 
 # C extensions
 *.so
+notebooks/mlruns*
 
 # Distribution / packaging
 .Python
